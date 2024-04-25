@@ -1,0 +1,1 @@
+name|#Network|Station|Latitude|Longitude|fast1|lag1|fast2|lag2|dist|az|baz|event|evlat|evlon|evdepth|evmag|SNR|Emin|radsnr|transsnr|radenv|transenv|
